@@ -1,6 +1,6 @@
 # Nonebot MockingBird Support
 
-> 如果需要直接使用本插件，请将训练好的模型放在机器人根目录下命名为 `Mocking_model.pt` , 将音频放置同样的目录下命名 `recoder.wav`
+> 如果需要直接使用本插件，请将训练好的模型放在机器人根目录下命名为 `mocking_model.pt` , 将音频放置同样的目录下命名 `recoder.wav`
 
 ## [Mocking Bird](https://github.com/babysor/MockingBird)
 ![mockingbird](https://user-images.githubusercontent.com/12797292/131216767-6eb251d6-14fc-4951-8324-2722f0cd4c63.jpg)
